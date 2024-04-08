@@ -1,7 +1,3 @@
-//singleton
-
-
-//Object.create(constructor methoc)
 
 //object literals
 
